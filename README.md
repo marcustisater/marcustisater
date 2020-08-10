@@ -1,7 +1,7 @@
 <strong>Hey, I'm Marcus 👋 </strong>
 
-I'm a front-end engineer from Sweden building UI:s with React and Node. 
+I'm a front-end engineer based in Sweden, Stockholm. 
 
-Love to help out with open source projects!
+I love building UI:s with React and Node. 
 
-Funny story. Someone hijacked my .se domain. It's not my website. Yes you are correct, it's now very expensive...
+Funny story. Someone hijacked my .se domain. It's not my website. Yes you are correct, it's now very expensive to buy back...

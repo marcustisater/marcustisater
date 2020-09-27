@@ -2,6 +2,4 @@
 
 I'm a front-end engineer based in Sweden, Stockholm. 
 
-I love building UI:s with React and Node. 
-
-Currently working on https://github.com/nodejs/nodejs.dev 
+Open source: [@https://github.com/nodejs](https://github.com/nodejs) and [@postcss](github.com/postcss)

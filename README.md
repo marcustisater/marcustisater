@@ -2,7 +2,8 @@
 
 I am a front-end engineer from Stockholm, Sweden.
 
-* :man_technologist:  I currently work at [Nordic Morning](https://nordicmorning.com/)
-* :toolbox:  Love working in JAMStacks with React, Javascript/Typescript and CSS.
-* :heart:  Helping with open source for [@nodejs](https://github.com/nodejs) and [@postcss](https://github.com/postcss)
-* :email:  Reach me via marcus.tisater@gmail.com
+* I currently work at [Nordic Morning](https://nordicmorning.com/)
+* Love working in JAMStacks with React, Javascript/Typescript and CSS.
+* Helping with open source for [@nodejs](https://github.com/nodejs) and [@postcss](https://github.com/postcss)
+* Co-organizer for [WordPress Stockholm Meetup](https://www.meetup.com/WordPress-Stockholm/)
+* Reach me via marcus.tisater@gmail.com

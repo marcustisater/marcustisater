@@ -1,10 +1,3 @@
-## My name is Marcus
-
-I am a front-end engineer from Stockholm, Sweden.
-
-* I work at [Nordic Morning](https://nordicmorning.com/) as a front-end engineer.
-* Love working in JAMStacks with React, Javascript/Typescript and CSS.
-* I care about accessibility. I think you should too.
-* Helping with open source for [@nodejs](https://github.com/nodejs) and [@postcss](https://github.com/postcss)
-* Co-organizer for [WordPress Stockholm Meetup](https://www.meetup.com/WordPress-Stockholm/)
-* Reach me via marcus.tisater@gmail.com
+**Hello, I'm Marcus!
+ 
+I'm a front-end engineer from Sweden 🇸🇪 and I love working with React and Node. I currently work on open source projects for nodejs and postcss and love to deep dive into accessibility topics. I help organize [WordPress meetups](https://www.meetup.com/WordPress-Stockholm/) in Stockholm and sometimes I write tech related articles around the web. Thanks for reading!
